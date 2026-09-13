@@ -1,0 +1,6 @@
+{
+  "name": "KHTN 7 – Hành Trình Chinh Phục Khoa Học",
+  "description": "Ứng dụng trò chơi học tập Khoa học tự nhiên lớp 7 toàn diện: Bản đồ khám phá 11 chương, 9 chế độ trò chơi tương tác, đấu trường lớp học, thí nghiệm ảo và trung tâm giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
